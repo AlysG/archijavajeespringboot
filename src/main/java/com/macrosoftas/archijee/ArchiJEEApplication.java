@@ -23,7 +23,7 @@ import java.util.List;
 public class ArchiJEEApplication implements CommandLineRunner{
 	
 	private static final Logger logger = LoggerFactory.getLogger(ArchiJEEApplication.class);
-	
+	//test
 	@Autowired
 	private UserRepository userRepository;
 	
